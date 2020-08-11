@@ -9,3 +9,4 @@ def list_dwarves(array)# Use `each_with_index` to enumerate over the provided ar
   array.each_with_index do |n, name|
     puts "#{n}#{name}"
 end
+end
